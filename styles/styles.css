@@ -45,13 +45,6 @@ body {
   border: solid white 3px;
 }
 
-/* solución alternativa con flex
-.card__text{
-  display: flex;
-  flex-direction: column;
-  gap: 0.2em;
-}*/
-
 .card__name,
 .card__graduate{
   font-size: 1rem;
@@ -111,8 +104,7 @@ body {
 .card--dark{
   background-color: var(--dark-card);
 }
-.card__icon--violet,
-.card__icon--dark{
+.card__icon--violet{
   right: 90px;
   position:absolute;
   opacity: 0.5;
