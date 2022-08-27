@@ -1,1 +1,1 @@
-# My solution - Stats preview card component
+# My solution - Testiomonial cards
