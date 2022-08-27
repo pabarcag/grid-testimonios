@@ -87,17 +87,14 @@ body {
   margin: 0;
 }
 
-#a5a9b0
 
 /* Modificadores de color */
 
-.card__title--black{
-  color: #000;
-}
 
 .card__name--black{
   color: black;
 }
+
 .card--violet{
   background-color: var(--violet-card);
 }
@@ -110,6 +107,7 @@ body {
   background-color: var(--white-card);
 }
 
+
 .card--dark{
   background-color: var(--dark-card);
 }
@@ -120,6 +118,9 @@ body {
   opacity: 0.5;
 }
 
+.card__title--black{
+  color: #000;
+}
 
 @media screen and (min-width:1100px){
   .cards{
