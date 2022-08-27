@@ -111,8 +111,7 @@ body {
 .card--dark{
   background-color: var(--dark-card);
 }
-.card__icon--violet,
-.card__icon--dark{
+.card__icon--violet,{
   right: 90px;
   position:absolute;
   opacity: 0.5;
